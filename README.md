@@ -11,7 +11,7 @@ A javascript-only snake game which requires only an HTML insertion point to run 
 
 1. very customizable base settings, refer to index.js for comments about what things do. Code is very modular and changing one thing usually doesn't break any of the other systems on accident.
 - Ex. Although the game in base version does not allow for even column/row setting, if you turn that off by changing 1 line of code, the game will mostly work as expected.
-- Ex. Althought the game utilizes localStorage, the game's full functionality can be explored completely without it for users who have it disabled.
+- Ex. Although the game utilizes localStorage, the game's full functionality can be explored completely without it for users who have it disabled.
 2. a user can customize their running version of the game with some settings such as size, number of columns/rows, and resetting or completely removing the localStorage data used in the app.
 3. a user can see a list of stats kept track of which displays their current settings as well.
 4. no refresh required for any of the user customization options to take place.
